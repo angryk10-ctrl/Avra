@@ -1,0 +1,20 @@
+{
+  "format": "AvraStudioProject",
+  "version": 1,
+  "projectName": "AvraGain",
+  "brandName": "AVRA AUDIO",
+  "pluginTitle": "AvraGain",
+  "subtitleText": "CUSTOM FACEPLATE",
+  "globalInputDriveDb": 0,
+  "globalOutputTrimDb": 0,
+  "globalParallelMixPct": 100,
+  "globalMasterBypass": false,
+  "stageCount": 0,
+  "widgetCount": 0,
+  "schematicStages": [
+  ],
+  "faceplateWidgets": [
+  ],
+  "schematicPayload": "",
+  "faceplatePayload": "THEME|0|0|1|1|AVRA AUDIO|AvraGain|CUSTOM FACEPLATE|0|8|0|6|10|0|2|0|0|1721159|CLASS-A EFFECTS|1|0|0|0|15133935|2.5|0|0|13160148|1974822|15791352|0|1578516|14187032|0|0\n"
+}

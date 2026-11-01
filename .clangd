@@ -1,0 +1,16 @@
+CompileFlags:
+  Add:
+    - -std=c++20
+    - -Wno-c++17-extensions
+    - -I
+    - C:/Avra/include
+    - -I
+    - C:/Avra/studio
+    - -I
+    - C:/Avra/build/_deps/clap-src/include
+    - -D_WIN32
+    - -DNOMINMAX
+    - -DWIN32_LEAN_AND_MEAN
+Diagnostics:
+  Suppress:
+    - "c++17-extensions"

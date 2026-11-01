@@ -1,0 +1,46 @@
+# Build directories
+build/
+bin/
+out/
+**/dist/
+
+# User-generated plugins, presets & obsolete manifests
+plugins/
+presets/
+manifests/
+avra_216_master_specification*.txt
+
+# Local Studio runtime state & backups
+.avra_*
+*.bak
+*.exp
+*.lib
+
+# Visual Studio / IDE files
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.suo
+.vscode/
+
+# CMake temporary files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.dir/
+
+# Compiled binaries & release archives
+*.exe
+*.zip
+*.dll
+*.so
+*.dylib
+*.vst3
+*.clap
+*.pdb
+*.ilk
+*.obj
+*.o
+
+Avra_Gumroad_*.png

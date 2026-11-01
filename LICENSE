@@ -1,0 +1,89 @@
+AVRA STUDIO NON-COMMERCIAL OPEN-SOURCE & PLUGIN OUTPUT LICENSE
+Version 1.0 — Copyright (c) 2026 Kennedarth / Avra Audio. All Rights Reserved.
+
+IMPORTANT — READ CAREFULLY: This License governs your use of the Avra Studio
+software, source code, circuit models, visual themes, and any audio plugins,
+executables, or source code generated or exported by Avra Studio ("Generated
+Plugins"). By downloading, compiling, using, modifying, or distributing Avra
+Studio or any Generated Plugins, you agree to be bound by the terms below.
+
+================================================================================
+1. PERMITTED FREE & NON-COMMERCIAL USE
+================================================================================
+Subject to the restrictions in Section 2 and Section 3, you are granted a
+worldwide, royalty-free, non-exclusive, revocable license to:
+
+  (a) Download, compile, and run Avra Studio for personal, educational, or
+      non-commercial purposes;
+  (b) Design, compile, and use Generated Plugins (.vst3, .clap, standalone
+      .exe, or exported C++20 source code) in your own personal, educational,
+      or studio music production and audio engineering workflows;
+  (c) Share Generated Plugins or non-commercial modifications of Avra Studio
+      with others, PROVIDED that such distribution is 100% free of charge,
+      includes a copy of this License, and retains all Avra Studio attribution
+      and non-commercial notices.
+
+================================================================================
+2. STRICT PROHIBITION ON SELLING OR MONETIZING AVRA STUDIO
+================================================================================
+You may NOT, under any circumstances, make money from or commercially exploit
+Avra Studio or any derivative work based upon it. Specifically, you may NOT:
+
+  (a) Sell, resell, license for a fee, rent, lease, or charge money for Avra
+      Studio, its source code, its DSP circuit library, or its UI assets;
+  (b) Bundle Avra Studio or any portion of its codebase into any paid software,
+      commercial product, paid course, or hardware device;
+  (c) Place Avra Studio, forks of Avra Studio, or builds of Avra Studio behind
+      any paywall, paid membership, subscription tier (including Patreon,
+      Ko-fi, Discord, or similar platforms), lead-capture gate, or ad-monetized
+      download link.
+
+================================================================================
+3. STRICT PROHIBITION ON SELLING OR MONETIZING PLUGINS MADE WITH AVRA STUDIO
+================================================================================
+Generated Plugins created, exported, or compiled using Avra Studio are strictly
+for FREE use only. You may NOT make money from Generated Plugins. Specifically,
+you may NOT:
+
+  (a) Sell, resell, license for a fee, rent, lease, or charge any monetary
+      compensation for any plugin (.vst3, .clap, .au, .aax, standalone .exe,
+      or any other binary format), preset pack, or C++ source code generated
+      by, exported from, or derived from Avra Studio;
+  (b) Include any Generated Plugin or Avra-generated DSP/UI code inside a
+      commercial plugin bundle, paid sample/producer pack, or paid service;
+  (c) Gate downloads of any Generated Plugin behind a paywall, paid subscription,
+      paid patronage tier, or commercial license key system.
+
+Every Generated Plugin distributed to third parties MUST be offered completely
+free of charge and clearly state that it was created with Avra Studio under
+this Non-Commercial License.
+
+================================================================================
+4. PRESERVATION OF SAFEGUARDS, WATERMARKS & ATTRIBUTION
+================================================================================
+You may NOT remove, obscure, alter, bypass, spoof, or disable:
+
+  (a) Any copyright notices, license headers, or "Created with Avra Studio —
+      Not for Commercial Sale" attributions in the source code, UI, or binaries;
+  (b) Any technical safeguards, cryptographic signatures, telemetry checks, or
+      anti-resale protections implemented within Avra Studio or embedded into
+      Generated Plugins.
+
+================================================================================
+5. TERMINATION
+================================================================================
+Any violation of Sections 2, 3, or 4 automatically and immediately terminates
+your rights under this License without notice. Upon termination, you must
+immediately cease all use and distribution of Avra Studio and any Generated
+Plugins.
+
+================================================================================
+6. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+================================================================================
+THE SOFTWARE AND ALL GENERATED PLUGINS ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR GENERATED PLUGINS
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE OR GENERATED PLUGINS.

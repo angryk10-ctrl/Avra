@@ -1,0 +1,44 @@
+// assets/avra_studio.rc
+#include <windows.h>
+
+#ifndef IDI_ICON1
+#define IDI_ICON1 101
+#endif
+
+// Standard resource ID 1 and 101 so Windows Explorer and LoadImageW(MAKEINTRESOURCEW(1/101)) always resolve the icon
+1                       ICON                    "avra_studio.ico"
+101                     ICON                    "avra_studio.ico"
+
+// Add standard application metadata
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "Avra Audio (https://github.com/angryk10-ctrl/Avra)"
+            VALUE "FileDescription", "Avra Studio Audio Plugin & Workstation (Free Non-Commercial)"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "AvraStudio"
+            VALUE "LegalCopyright", "Created with Avra Studio - Free Non-Commercial Use Only (Not for Sale)"
+            VALUE "OriginalFilename", "AvraStudio.exe"
+            VALUE "ProductName", "Avra Studio (Free Non-Commercial)"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
